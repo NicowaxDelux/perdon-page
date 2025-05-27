@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+button {
+    padding: 30px 40px;
+    font-size: 28px;
+    margin: 3px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    border: none;
+    border-radius: 5px;
+    background-color: #f28b82;
+    color: white;
+}
+
+#respuesta {
+    margin-top: 60px;
+    font-size: 2.5em;
+    color:black;
+}
+
+#imagen {
+    margin-left: 475px;
+    margin-top: 30px;
+    display: none;
+    max-width: 35%;
+    border-radius: 10px;
+}
