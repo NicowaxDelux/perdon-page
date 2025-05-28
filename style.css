@@ -5,7 +5,8 @@ body {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 4.5em;
+    margin-block-end: 110px;
 }
 
 button {
@@ -16,18 +17,18 @@ button {
     transition: transform 0.3s;
     border: none;
     border-radius: 5px;
-    background-color: #f28b82;
+    background-color:red;
     color: white;
 }
 
 #respuesta {
-    margin-top: 60px;
-    font-size: 2.5em;
+    margin-top: 120px;
+    font-size: 3.5em;
     color:black;
 }
 
 #imagen {
-    margin-left: 200px;
+    margin-left: 50px;
     margin-top: 30px;
     display: none;
     max-width: 80%;
